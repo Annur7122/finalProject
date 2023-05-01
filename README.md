@@ -15,5 +15,5 @@ Customized project structure for HttpServlet projects
 
 ## Authors
 
-ex. Alisher Manatbek
-ex. [@aleshnasx](https://t.me/aleshnasx)
+Alisher Manatbek
+[@aleshnasx](https://t.me/aleshnasx)
