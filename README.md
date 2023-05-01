@@ -11,7 +11,7 @@ Customized project structure for HttpServlet projects
 
 ### Dependencies
 
-* There is no dependencies, download IntelijIdea for your laptop
+* There is no dependencies, install IntelijIdea for your laptop
 
 ## Authors
 
